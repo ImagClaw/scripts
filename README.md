@@ -1,3 +1,1 @@
-# scripts
-
-## TESTING VIA HTTPS VSCODE
+# scripts written in class
