@@ -1,3 +1,11 @@
+ #!/usr/bin/env python3
+#
+# Author: dal.whelpley@gmail.com
+#
+# This script is used to convert ascii to decimal 
+#
+# I.E. A == 065
+
 import math, argparse
 
 parser = argparse.ArgumentParser()
